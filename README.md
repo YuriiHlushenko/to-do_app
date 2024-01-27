@@ -1,2 +1,2 @@
 # React Todo App with API (complete)
-[DEMO LINK](https://YuriiHlushenko.github.io/todo-app)
+[DEMO LINK](https://yuriihlushenko.github.io/to-do_app/)
